@@ -56,4 +56,3 @@ A simple and responsive User Search Application built with **React.js** and **Ta
 ## Purpose
 
 This project was built as a hands-on practice project to understand API integration, state management, search functionality, and efficient rendering in React.
->>>>>>> 19e7a39d6421a856dced61c2f1477fe861662a7e
